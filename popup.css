@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    width: 400px;
+    height: 600px;
+    background-color: #1b2126;
+    color: white;
+    text-align: center;
+}
+
+.urls, .pastes {
+    padding: 1vw;
+}
+
+.remove {
+    padding: 1vw;
+    border-radius: 2vw;
+    cursor: pointer;
+}
+
+.remove:hover {
+    background-color: #1b2126;
+}
+
+.link {
+    background-color: #262e3b;
+    display: inline-block;
+    padding: 2vw;
+    border-radius: 1vw;
+    margin: 1vw;
+}
+
+.text {
+    cursor: pointer;
+}
+
+.text:hover {
+    text-decoration: underline;
+}
+
+.urls, .pastes {
+    background-color: #8e9091;
+    border-radius: 1vw;
+    width: 90vw;
+    padding: 2vw;
+    margin: 1vw;
+}
