@@ -3,7 +3,7 @@
     "short_name": "StudyBuddy",
     "manifest_version": 3,
     "version": "1.0.0",
-    "version_name": "1.0.0-beta",
+    "version_name": "1.0.0",
     "description": "Need help studying? We've included some tools to make your study time more successful!",
     "author": "rgantzos",
     "background": {
